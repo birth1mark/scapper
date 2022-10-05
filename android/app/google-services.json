@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "531641383362",
+    "project_id": "projetoisla-d855d",
+    "storage_bucket": "projetoisla-d855d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531641383362:android:39c9f9fe8d814ab0857e5b",
+        "android_client_info": {
+          "package_name": "com.scap.scapper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531641383362-9nlr8rp51e60tpep97lqm51jcu0rq3nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scap.scapper",
+            "certificate_hash": "2389f5d4fc71928dae0c8923f4a12cc433ce2d9d"
+          }
+        },
+        {
+          "client_id": "531641383362-kvigtq4b97ja58kknsk2secauooh7fqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scap.scapper",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "531641383362-3h3fkplcgcc6d1j2ll3hqd48ss0s0sht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS1ikmRPnm2ZawpOWXJdfKx_4CKFZfbN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531641383362-3h3fkplcgcc6d1j2ll3hqd48ss0s0sht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531641383362-8vo7c0u8mbkf4grb0kt17fukacadn9nj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.scap.scapper"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
